@@ -1,6 +1,6 @@
 coverFoxBaseStudy\Base.class
+coverFoxPOM\CoverFoxHealthPlanPage.class
 coverFoxPOM\CoverFoxHomePage.class
 coverFoxPOM\CoverFoxMemberDetailsPage.class
-coverFoxPOM\CoverFoxHealthPlanPage.class
 coverFoxPOM\CoverFoxResultPage.class
 coverFoxPOM\CoverFoxAddressDetailsPage.class

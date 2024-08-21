@@ -72,7 +72,7 @@ public class CoverFoxTC2UsingPOM extends Base {
 		Thread.sleep(4000);
 		Assert.assertTrue(resultPage.sortPlanFilterIsDisplayed(), "Sort Plan filter is not displayed,TC is failed");
 
-		UtilitycoverFox.takeScreenShot(driver, "validatePresenceOfSortButton");
+		//UtilitycoverFox.takeScreenShot(driver, "validatePresenceOfSortButton");
 	}
 
 	@AfterClass
