@@ -7,7 +7,7 @@
 	</listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="coverFoxTestStudy.CoverFoxTC_POM_EXCEL"/>
+      <class name="coverFoxTestStudy.CoverFoxTC2UsingPOM"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

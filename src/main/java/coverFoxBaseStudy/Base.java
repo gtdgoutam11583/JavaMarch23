@@ -19,12 +19,11 @@ public class Base {
 		driver.get("https://www.coverfox.com/");
 		Reporter.log("launching browser", true);
 		driver.manage().timeouts().implicitlyWait(Duration.ofMillis(1000));
-		Reporter.log("waiting...", false);
+		Reporter.log("waiting...", true);
 	}
 
-	public void browserClose() throws InterruptedException {
+	public void browserClose() {
 		Reporter.log("closing browser", true);
-		Thread.sleep(1000);
 		driver.close();
 	}
 

@@ -77,6 +77,7 @@ public class CoverFoxTC2UsingPOM extends Base {
 
 	@AfterClass
 	public void closeBrowser() throws InterruptedException {
+		Thread.sleep(1000);
 		browserClose();
 	}
 

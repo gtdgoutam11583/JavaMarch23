@@ -45,3 +45,81 @@
 2024-08-13 01:24:55,553 - CoverFoxInsurance -INFO - Clicking on AddressDetails Page Next btn
 2024-08-13 01:24:59,769 - CoverFoxInsurance -INFO - Validating Banners...
 2024-08-13 01:24:59,775 - CoverFoxInsurance -INFO - Closing Browser...
+2024-08-19 08:14:39,821 - CoverFoxInsurance -INFO - Opening Browser...
+2024-08-19 08:14:57,499 - CoverFoxInsurance -INFO - Clicking on gender btn
+2024-08-19 08:14:58,622 - CoverFoxInsurance -INFO - Clicking on  HealthPlan page next btn
+2024-08-19 08:15:01,133 - CoverFoxInsurance -WARN - Age should be between 18 to 90
+2024-08-19 08:15:01,134 - CoverFoxInsurance -INFO - Handling Age DropDown
+2024-08-19 08:15:02,267 - CoverFoxInsurance -INFO - Clicking on MemberDetails Next btn
+2024-08-19 08:15:03,485 - CoverFoxInsurance -WARN - Enter valid Pin Code
+2024-08-19 08:15:03,486 - CoverFoxInsurance -INFO - Entering Pin Code
+2024-08-19 08:15:03,723 - CoverFoxInsurance -WARN - Enter Valid Mobile Number
+2024-08-19 08:15:03,724 - CoverFoxInsurance -INFO - Entering Mobile Number
+2024-08-19 08:15:03,844 - CoverFoxInsurance -INFO - Clicking on AddressDetails Page Next btn
+2024-08-19 08:15:08,012 - CoverFoxInsurance -INFO - Validating Banners...
+2024-08-19 08:15:08,018 - CoverFoxInsurance -INFO - Closing Browser...
+2024-08-19 19:20:47,110 - CoverFoxInsurance -INFO - Opening Browser...
+2024-08-19 19:21:03,396 - CoverFoxInsurance -INFO - Clicking on gender btn
+2024-08-19 19:21:04,674 - CoverFoxInsurance -INFO - Clicking on  HealthPlan page next btn
+2024-08-19 19:21:09,300 - CoverFoxInsurance -WARN - Age should be between 18 to 90
+2024-08-19 19:21:09,301 - CoverFoxInsurance -INFO - Handling Age DropDown
+2024-08-19 19:21:10,387 - CoverFoxInsurance -INFO - Clicking on MemberDetails Next btn
+2024-08-19 19:21:11,601 - CoverFoxInsurance -WARN - Enter valid Pin Code
+2024-08-19 19:21:11,602 - CoverFoxInsurance -INFO - Entering Pin Code
+2024-08-19 19:21:11,789 - CoverFoxInsurance -WARN - Enter Valid Mobile Number
+2024-08-19 19:21:11,790 - CoverFoxInsurance -INFO - Entering Mobile Number
+2024-08-19 19:21:11,889 - CoverFoxInsurance -INFO - Clicking on AddressDetails Page Next btn
+2024-08-19 19:21:16,037 - CoverFoxInsurance -INFO - Validating Banners...
+2024-08-19 19:21:16,044 - CoverFoxInsurance -INFO - Closing Browser...
+2024-08-19 19:23:41,216 - CoverFoxInsurance -INFO - Opening Browser...
+2024-08-19 19:23:53,248 - CoverFoxInsurance -INFO - Clicking on gender btn
+2024-08-19 19:23:54,521 - CoverFoxInsurance -INFO - Clicking on  HealthPlan page next btn
+2024-08-19 19:23:58,063 - CoverFoxInsurance -WARN - Age should be between 18 to 90
+2024-08-19 19:23:58,065 - CoverFoxInsurance -INFO - Handling Age DropDown
+2024-08-19 19:23:59,175 - CoverFoxInsurance -INFO - Clicking on MemberDetails Next btn
+2024-08-19 19:24:00,457 - CoverFoxInsurance -WARN - Enter valid Pin Code
+2024-08-19 19:24:00,458 - CoverFoxInsurance -INFO - Entering Pin Code
+2024-08-19 19:24:00,645 - CoverFoxInsurance -WARN - Enter Valid Mobile Number
+2024-08-19 19:24:00,646 - CoverFoxInsurance -INFO - Entering Mobile Number
+2024-08-19 19:24:00,766 - CoverFoxInsurance -INFO - Clicking on AddressDetails Page Next btn
+2024-08-19 19:24:04,908 - CoverFoxInsurance -INFO - Validating Banners...
+2024-08-19 19:24:04,915 - CoverFoxInsurance -INFO - Closing Browser...
+2024-08-19 19:27:51,341 - CoverFoxInsurance -INFO - Opening Browser...
+2024-08-19 19:28:01,368 - CoverFoxInsurance -INFO - Clicking on gender btn
+2024-08-19 19:28:02,507 - CoverFoxInsurance -INFO - Clicking on  HealthPlan page next btn
+2024-08-19 19:28:06,491 - CoverFoxInsurance -WARN - Age should be between 18 to 90
+2024-08-19 19:28:06,492 - CoverFoxInsurance -INFO - Handling Age DropDown
+2024-08-19 19:28:07,719 - CoverFoxInsurance -INFO - Clicking on MemberDetails Next btn
+2024-08-19 19:28:08,960 - CoverFoxInsurance -WARN - Enter valid Pin Code
+2024-08-19 19:28:08,960 - CoverFoxInsurance -INFO - Entering Pin Code
+2024-08-19 19:28:09,130 - CoverFoxInsurance -WARN - Enter Valid Mobile Number
+2024-08-19 19:28:09,131 - CoverFoxInsurance -INFO - Entering Mobile Number
+2024-08-19 19:28:09,225 - CoverFoxInsurance -INFO - Clicking on AddressDetails Page Next btn
+2024-08-19 19:28:13,339 - CoverFoxInsurance -INFO - Validating Banners...
+2024-08-19 19:28:13,346 - CoverFoxInsurance -INFO - Closing Browser...
+2024-08-19 19:30:18,307 - CoverFoxInsurance -INFO - Opening Browser...
+2024-08-19 19:30:27,731 - CoverFoxInsurance -INFO - Clicking on gender btn
+2024-08-19 19:30:28,950 - CoverFoxInsurance -INFO - Clicking on  HealthPlan page next btn
+2024-08-19 19:30:31,996 - CoverFoxInsurance -WARN - Age should be between 18 to 90
+2024-08-19 19:30:31,997 - CoverFoxInsurance -INFO - Handling Age DropDown
+2024-08-19 19:30:33,113 - CoverFoxInsurance -INFO - Clicking on MemberDetails Next btn
+2024-08-19 19:30:34,358 - CoverFoxInsurance -WARN - Enter valid Pin Code
+2024-08-19 19:30:34,358 - CoverFoxInsurance -INFO - Entering Pin Code
+2024-08-19 19:30:34,590 - CoverFoxInsurance -WARN - Enter Valid Mobile Number
+2024-08-19 19:30:34,591 - CoverFoxInsurance -INFO - Entering Mobile Number
+2024-08-19 19:30:34,737 - CoverFoxInsurance -INFO - Clicking on AddressDetails Page Next btn
+2024-08-19 19:30:38,921 - CoverFoxInsurance -INFO - Validating Banners...
+2024-08-19 19:30:38,929 - CoverFoxInsurance -INFO - Closing Browser...
+2024-08-19 19:32:43,222 - CoverFoxInsurance -INFO - Opening Browser...
+2024-08-19 19:32:53,239 - CoverFoxInsurance -INFO - Clicking on gender btn
+2024-08-19 19:32:54,459 - CoverFoxInsurance -INFO - Clicking on  HealthPlan page next btn
+2024-08-19 19:32:57,340 - CoverFoxInsurance -WARN - Age should be between 18 to 90
+2024-08-19 19:32:57,341 - CoverFoxInsurance -INFO - Handling Age DropDown
+2024-08-19 19:32:58,449 - CoverFoxInsurance -INFO - Clicking on MemberDetails Next btn
+2024-08-19 19:32:59,691 - CoverFoxInsurance -WARN - Enter valid Pin Code
+2024-08-19 19:32:59,692 - CoverFoxInsurance -INFO - Entering Pin Code
+2024-08-19 19:32:59,860 - CoverFoxInsurance -WARN - Enter Valid Mobile Number
+2024-08-19 19:32:59,861 - CoverFoxInsurance -INFO - Entering Mobile Number
+2024-08-19 19:32:59,985 - CoverFoxInsurance -INFO - Clicking on AddressDetails Page Next btn
+2024-08-19 19:33:04,116 - CoverFoxInsurance -INFO - Validating Banners...
+2024-08-19 19:33:04,122 - CoverFoxInsurance -INFO - Closing Browser...

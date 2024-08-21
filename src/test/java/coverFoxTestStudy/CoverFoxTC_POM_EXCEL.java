@@ -107,7 +107,7 @@ public class CoverFoxTC_POM_EXCEL extends Base{
 	{
 		
 		logger.info("Closing Browser...");
-		driver.close();
+		browserClose();
 	}
 
 }
